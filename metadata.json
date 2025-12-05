@@ -1,0 +1,5 @@
+{
+  "name": "ArtGen CLI studio 0.0.016",
+  "description": "A professional AI prompt engineering interface converting the functionality of a Zenity bash script into a modern React application. Features persona management, style mixing, and history logging using the Gemini API.",
+  "requestFramePermissions": []
+}
